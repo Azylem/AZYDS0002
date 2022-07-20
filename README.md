@@ -1,5 +1,5 @@
 # AZYDS0002
-"Deroscapes" series non-fungible asset (NFA) by Azylem - AZYDS0002
+Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0002 "Critical Mass v1"
 
 Copyright 2022 Azylem. All rights reserved.
 
