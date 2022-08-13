@@ -3,6 +3,6 @@ Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0002 "Critical Mass 
 
 Copyright 2022 Azylem. All rights reserved.
 
-SCID: a59ca8a10fe388843f7147c38bcf7e17696e7384d1691f281733ed098cfd48fd
+SCID: f82dd64b0355d23dcb58f6e5aff59194d75e9a7eb4c0520c6b495f2a5933fdcf
 
 Creator: dero1qyfk5w2rvqpl9kzfd7fpteyp2k362y6audydcu2qrgcmj6vtasfkgqq9704gn
